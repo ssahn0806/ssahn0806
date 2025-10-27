@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssahn0806&count_bg=%2370EFDD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fssahn0806?color=red&label=hits&size=small&base_count=2304)](https://myhits.vercel.app)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssahn0806)](https://solved.ac/ssahn0806)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgjyd)](https://solved.ac/jgjyd)
 <!--
 **ssahn0806/ssahn0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
